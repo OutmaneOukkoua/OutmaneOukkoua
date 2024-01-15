@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="400" src="[https://videoplasty.com/stock-animation/chill-coding-programming-lofi-animation-11018](https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/attachments/delivery/asset/fdb14256522b06ad3572735ebdb50d4e-1689865671/ENTREGABLE_V4/do-a-beautiful-animated-gif-in-pixelart-for-streamings.gif)"/>
+[![MasterHead](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/32a67551-d739-4f70-b45c-96ccb7b18e5b/detuch0-1f6dfe03-117f-4216-9d20-3062cddbbb1b.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzMyYTY3NTUxLWQ3MzktNGY3MC1iNDVjLTk2Y2NiN2IxOGU1YlwvZGV0dWNoMC0xZjZkZmUwMy0xMTdmLTQyMTYtOWQyMC0zMDYyY2RkYmJiMWIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.aaAMhZorYCSywHUI_oHWfkAa-XaBd2csP7iiSxfa_74)](https://github.com/OutmaneOukkoua)
 <h1 align="center">Hi 👋, I'm Outmane Oukkoua</h1>
 <h2 align="center">A Full-Stack Developer</h3>
 
