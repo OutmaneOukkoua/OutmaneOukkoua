@@ -38,7 +38,7 @@
 <p align="left">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 <a href="https://redux.js.org/" target="_blank" rel="noreferrer"> <img src="https://e7.pngegg.com/pngimages/724/234/png-clipart-redux-react-javascript-vue-js-single-page-application-others-miscellaneous-purple-thumbnail.png" alt="redux" width="40" height="40"/> </a>
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/originals/de/86/29/de8629935b90d646b825e2adbfce0395.png" alt="laravel" width="40" height="40"/> </a>
+  <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://logowik.com/content/uploads/images/laravel8530.jpg" alt="laravel" width="40" height="40"/> </a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
 </p>
 
