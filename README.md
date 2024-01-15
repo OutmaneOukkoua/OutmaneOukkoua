@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="400" src="https://videoplasty.com/stock-animation/chill-coding-programming-lofi-animation-11018">
+<img align="right" alt="Coding" width="400" src="[https://videoplasty.com/stock-animation/chill-coding-programming-lofi-animation-11018](https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/attachments/delivery/asset/fdb14256522b06ad3572735ebdb50d4e-1689865671/ENTREGABLE_V4/do-a-beautiful-animated-gif-in-pixelart-for-streamings.gif)">
 <h1 align="center">Hi 👋, I'm Outmane Oukkoua</h1>
 <h2 align="center">A Full-Stack Developer</h3>
 
