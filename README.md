@@ -1,6 +1,6 @@
+<img align="right" alt="Coding" width="400" src="https://videoplasty.com/stock-animation/chill-coding-programming-lofi-animation-11018">
 <h1 align="center">Hi 👋, I'm Outmane Oukkoua</h1>
 <h2 align="center">A Full-Stack Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://videoplasty.com/stock-animation/chill-coding-programming-lofi-animation-11018">
 
 
 - 🌱 I’m currently learning **COMPUTER SCIENCE UND NEW WEB TECHNOLOGY**
