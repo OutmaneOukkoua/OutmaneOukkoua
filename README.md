@@ -41,6 +41,7 @@
   <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
   <a href="https://mongoosejs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png" alt="mongoose" width="40" height="40"/> </a>
+  <a href="https://sequelize.org/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:922/1*Nt9mcMw6paQBnSH-i1zAKQ.png" alt="sequelize" width="40" height="40"/> </a>
 </p>
 
 ##### Datastores
