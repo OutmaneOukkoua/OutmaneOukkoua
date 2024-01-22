@@ -3,7 +3,7 @@
 <h2 align="center">A Full-Stack Developer</h3>
 
 
-- 🌱 I’m currently learning **COMPUTER SCIENCE AND NEW WEB TECHNOLOGY**
+- 🌱 I’m currently learning **COMPUTER SCIENCE, DEVOPS, RESEAUX AND NEW WEB TECHNOLOGY**
 
 - 📫 Reach me at **outmane.oukkoua@gmail.com**
 
