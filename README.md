@@ -1,11 +1,16 @@
 [![MasterHead](https://raw.githubusercontent.com/mosh3eb/Portfolio_Page/main/images/bg.gif)](https://github.com/OutmaneOukkoua)
-<h1 align="center">Hi 👋, I'm Outmane Oukkoua</h1>
-<h2 align="center">A Full-Stack Developer</h3>
+<h1 align="center">Hi there 👋, I'm Outmane Oukkoua</h1>
+<h2 align="center">Full-Stack Developer | Passionate About Technology</h2>
+
+<p align="center">
+  <em>Building the web, one line of code at a time 🚀</em>
+</p>
+
+- 🌱 Currently diving deep into **Computer Science, DevOps, Networking, Cybersecurity Concepts, Keeping Pace with Modern Web Technologies** etc.   
 
 
-- 🌱 I’m currently learning **COMPUTER SCIENCE, DEVOPS, NETWORK AND NEW WEB TECHNOLOGY**
-
-- 📫 Reach me at **outmane.oukkoua@gmail.com**
+- 💡 Exploring new challenges and solutions in full-stack development and cutting-edge tech.
+- 📫 You can reach me via email at: [outmane.oukkoua@gmail.com](mailto:outmane.oukkoua@gmail.com)
 
 
 <h3 align="left">Technologies:</h3>
