@@ -3,7 +3,7 @@
 <h2 align="center">Full-Stack Developer | Passionate About Technology</h2>
 
 <p align="center">
-  <em>Building the web, one line of code at a time 🚀</em>
+    <em>Crafting innovative and scalable web solutions with a focus on performance, security, and user experience 🚀</em>
 </p>
 
 - 🌱 Currently diving deep into **Computer Science, DevOps, Networking, Cybersecurity Concepts, Keeping Pace with Modern Web Technologies** etc.   
