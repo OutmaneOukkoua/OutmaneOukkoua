@@ -25,7 +25,7 @@
 <p align="left">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAqhAiJKddYc00qHoH_QUYaCz_KijP2JKZnxSIZ_HhHt5ImYt_rn-GnZwyuzTVemq_6ho&usqp=CAU" alt="git" width="40" height="40"/> </a>
   <a href="https://hub.docker.com/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP2Ie3nXShciKnXAthEMiWkbYHbWZfiTEJNy0IHOsNgNpgaQwzo7B1rYDg5JuepfqsGx4&usqp=CAU" alt="docker" width="40" height="40"/> </a>
-  <a href="https://www.nginx.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Nukecraft5419/Nukecraft5419/main/skills/nginx.png" alt="nginx" width="40" height="40"/> </a>
+  <a href="https://www.nginx.com/" target="_blank" rel="noreferrer"> <img src="https://www.myqnap.org/wp-content/uploads/nginx-3628948-3030173-1.png" alt="nginx" width="40" height="40"/> </a>
   <a href="https://httpd.apache.org/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/130/892/png-transparent-apache-tomcat-apache-http-server-web-server-java-servlet-javaserver-pages-others-miscellaneous-text-logo-thumbnail.png" alt="apache" width="40" height="40"/> </a>
   <a href="https://socket.io/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSINpF5lSHN-nORBrUJPWUME_1y8wxXyyKrgFpvRZKLTYqctmdBWCZMAtTNAgDkjq90FSc&usqp=CAU" alt="socket.io" width="40" height="40"/> </a>
 </p>
